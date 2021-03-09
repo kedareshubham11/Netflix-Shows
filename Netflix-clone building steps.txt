@@ -1,0 +1,10 @@
+Demo app
+-get TMDB API key      tmdb api key:7834e7c9a549da564ee38e84ade61e97
+-create a react app
+-setup firebase hosting
+-get all the movies
+-build the rows
+-build the rows
+-build the banner
+-build the nav bar
+-add trailer popups
